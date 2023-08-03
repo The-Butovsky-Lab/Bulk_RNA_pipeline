@@ -1,6 +1,3 @@
-RNA-Seq 
+# Bulk RNA-Seq Processing Pipeline
 ********
-
-
-# Bulk_RNA_pipeline
 Pipeline to process raw files all the way up to pathway analysis
